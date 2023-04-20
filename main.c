@@ -11,6 +11,7 @@
      scanf("%d %d",&num1,&num2);
      //waaa
 
+//main
      switch(ch)
      {
       //Lennon
