@@ -9,9 +9,10 @@
 
      printf("Enter two numbers: ");
      scanf("%d %d",&num1,&num2);
-
+//im devin
      switch(ch)
      {
+      //ugga
       //Lennon
        case '+':
          printf("%d + %d =\t%d\n",num1,num2,num1+num2); 
