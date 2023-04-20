@@ -10,7 +10,7 @@
      printf("Enter two numbers: ");
      scanf("%d %d",&num1,&num2);
      //waaa
-
+//weee
 //main
      switch(ch)
      {
