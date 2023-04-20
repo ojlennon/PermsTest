@@ -10,6 +10,8 @@
      printf("Enter two numbers: ");
      scanf("%d %d",&num1,&num2);
      //waaa
+     //im pushing to main
+     
 //weee
 //main
      switch(ch)
